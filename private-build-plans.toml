@@ -1,0 +1,601 @@
+[buildPlans.isokeva]
+family = "Isokeva"
+spacing = "normal"
+serifs = "sans"
+no-cv-ss = true
+no-ligation = true
+export-glyph-names = true
+
+  [buildPlans.isokeva.variants]
+  inherits = "ss20"
+
+    [buildPlans.isokeva.variants.design]
+    capital-a = "curly-serifless"
+    capital-b = "standard-unilateral-serifed"
+    capital-d = "standard-unilateral-serifed"
+    capital-g = "toothed-serifless-hookless"
+    capital-i = "short-serifed"
+    capital-m = "hanging"
+    a = "double-storey-toothless-corner"
+    b = "toothless-corner"
+    d = "toothless-corner-serifless"
+    e = "flat-crossbar"
+    f = "flat-hook-tailed"
+    g = "earless-corner"
+    i = "tailed"
+    j = "serifless"
+    k = "cursive-serifless"
+    l = "tailed"
+    m = "earless-rounded-double-arch"
+    n = "earless-corner-straight"
+    p = "earless-corner"
+    q = "earless-corner"
+    r = "earless-corner"
+    u = "toothless-corner"
+    v = "cursive"
+    y = "cursive"
+    z = "curly-serifless"
+    long-s = "flat-hook-tailed"
+    eszet = "sulzbacher-descending"
+    zero = "slashed-oval"
+    one = "no-base-long-top-serif"
+    two = "curly-neck"
+    three = "flat-top"
+    four = "open"
+    five = "oblique-upper-left-bar"
+    seven = "curly-serifless"
+    eight = "two-circles"
+    asterisk = "hex-low"
+    pilcrow = "low"
+    paren = "flat-arc"
+    number-sign = "upright-open"
+    ampersand = "upper-open"
+    dollar = "open"
+    cent = "open"
+    percent = "rings-continuous-slash"
+    bar = "force-upright"
+    lig-ltgteq = "slanted"
+    punctuation-dot = "round"
+
+[buildPlans.isokeva.weights.light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.isokeva.weights.regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.isokeva.weights.bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.isokeva.slopes.upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.isokeva.slopes.italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.isokeva-term]
+family = "Isokeva Term"
+spacing = "term"
+serifs = "sans"
+no-cv-ss = true
+no-ligation = true
+export-glyph-names = true
+
+  [buildPlans.isokeva-term.variants]
+  inherits = "ss20"
+
+    [buildPlans.isokeva-term.variants.design]
+    capital-a = "curly-serifless"
+    capital-b = "standard-unilateral-serifed"
+    capital-d = "standard-unilateral-serifed"
+    capital-g = "toothed-serifless-hookless"
+    capital-i = "short-serifed"
+    capital-m = "hanging"
+    a = "double-storey-toothless-corner"
+    b = "toothless-corner"
+    d = "toothless-corner-serifless"
+    e = "flat-crossbar"
+    f = "flat-hook-tailed"
+    g = "earless-corner"
+    i = "tailed"
+    j = "serifless"
+    k = "cursive-serifless"
+    l = "tailed"
+    m = "earless-rounded-double-arch"
+    n = "earless-corner-straight"
+    p = "earless-corner"
+    q = "earless-corner"
+    r = "earless-corner"
+    u = "toothless-corner"
+    v = "cursive"
+    y = "cursive"
+    z = "curly-serifless"
+    long-s = "flat-hook-tailed"
+    eszet = "sulzbacher-descending"
+    zero = "slashed-oval"
+    one = "no-base-long-top-serif"
+    two = "curly-neck"
+    three = "flat-top"
+    four = "open"
+    five = "oblique-upper-left-bar"
+    seven = "curly-serifless"
+    eight = "two-circles"
+    asterisk = "hex-low"
+    pilcrow = "low"
+    paren = "flat-arc"
+    number-sign = "upright-open"
+    ampersand = "upper-open"
+    dollar = "open"
+    cent = "open"
+    percent = "rings-continuous-slash"
+    bar = "force-upright"
+    lig-ltgteq = "slanted"
+    punctuation-dot = "round"
+
+[buildPlans.isokeva-term.weights.light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.isokeva-term.weights.regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.isokeva-term.weights.bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.isokeva-term.slopes.upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.isokeva-term.slopes.italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.isokeva-fixed]
+family = "Isokeva Fixed"
+spacing = "fixed"
+serifs = "sans"
+no-cv-ss = true
+no-ligation = true
+export-glyph-names = true
+
+  [buildPlans.isokeva-fixed.variants]
+  inherits = "ss20"
+
+    [buildPlans.isokeva-fixed.variants.design]
+    capital-a = "curly-serifless"
+    capital-b = "standard-unilateral-serifed"
+    capital-d = "standard-unilateral-serifed"
+    capital-g = "toothed-serifless-hookless"
+    capital-i = "short-serifed"
+    capital-m = "hanging"
+    a = "double-storey-toothless-corner"
+    b = "toothless-corner"
+    d = "toothless-corner-serifless"
+    e = "flat-crossbar"
+    f = "flat-hook-tailed"
+    g = "earless-corner"
+    i = "tailed"
+    j = "serifless"
+    k = "cursive-serifless"
+    l = "tailed"
+    m = "earless-rounded-double-arch"
+    n = "earless-corner-straight"
+    p = "earless-corner"
+    q = "earless-corner"
+    r = "earless-corner"
+    u = "toothless-corner"
+    v = "cursive"
+    y = "cursive"
+    z = "curly-serifless"
+    long-s = "flat-hook-tailed"
+    eszet = "sulzbacher-descending"
+    zero = "slashed-oval"
+    one = "no-base-long-top-serif"
+    two = "curly-neck"
+    three = "flat-top"
+    four = "open"
+    five = "oblique-upper-left-bar"
+    seven = "curly-serifless"
+    eight = "two-circles"
+    asterisk = "hex-low"
+    pilcrow = "low"
+    paren = "flat-arc"
+    number-sign = "upright-open"
+    ampersand = "upper-open"
+    dollar = "open"
+    cent = "open"
+    percent = "rings-continuous-slash"
+    bar = "force-upright"
+    lig-ltgteq = "slanted"
+    punctuation-dot = "round"
+
+[buildPlans.isokeva-fixed.weights.light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.isokeva-fixed.weights.regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.isokeva-fixed.weights.bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.isokeva-fixed.slopes.upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.isokeva-fixed.slopes.italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.isokeva-slab]
+family = "Isokeva Slab"
+spacing = "normal"
+serifs = "slab"
+no-cv-ss = true
+no-ligation = true
+export-glyph-names = true
+
+  [buildPlans.isokeva-slab.variants]
+  inherits = "ss20"
+
+    [buildPlans.isokeva-slab.variants.design]
+    capital-a = "curly-base-serifed"
+    capital-b = "standard-bilateral-serifed"
+    capital-c = "unilateral-serifed"
+    capital-d = "standard-bilateral-serifed"
+    capital-e = "serifed"
+    capital-f = "serifed"
+    capital-g = "toothed-serifed-hookless"
+    capital-i = "short-serifed"
+    capital-m = "hanging"
+    a = "double-storey-tailed"
+    b = "toothless-corner"
+    d = "toothless-corner-serifed"
+    f = "flat-hook-serifed"
+    g = "single-storey-serifed"
+    i = "tailed-serifed"
+    k = "cursive-top-left-and-bottom-right-serifed"
+    l = "tailed-serifed"
+    m = "earless-rounded-double-arch"
+    n = "earless-corner-straight"
+    p = "earless-corner"
+    q = "earless-corner"
+    r = "earless-corner-serifed"
+    u = "toothless-corner"
+    v = "cursive-serifed"
+    y = "cursive-motion-serifed"
+    z = "curly-serifed"
+    long-s = "flat-hook-tailed"
+    eszet = "sulzbacher-descending"
+    zero = "reverse-slashed-oval"
+    one = "base-long-top-serif"
+    two = "curly-neck"
+    three = "flat-top"
+    four = "open"
+    five = "oblique-upper-left-bar"
+    seven = "curly-serifed"
+    eight = "two-circles"
+    asterisk = "hex-low"
+    pilcrow = "low"
+    paren = "flat-arc"
+    ampersand = "closed"
+    dollar = "open"
+    cent = "through"
+    percent = "rings-continuous-slash"
+    bar = "force-upright"
+    lig-ltgteq = "slanted"
+    punctuation-dot = "round"
+
+[buildPlans.isokeva-slab.weights.light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.isokeva-slab.weights.regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.isokeva-slab.weights.bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.isokeva-slab.slopes.upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.isokeva-slab.slopes.italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.isokeva-slab-term]
+family = "Isokeva Slab Term"
+spacing = "term"
+serifs = "slab"
+no-cv-ss = true
+no-ligation = true
+export-glyph-names = true
+
+  [buildPlans.isokeva-slab-term.variants]
+  inherits = "ss20"
+
+    [buildPlans.isokeva-slab-term.variants.design]
+    capital-a = "curly-base-serifed"
+    capital-b = "standard-bilateral-serifed"
+    capital-c = "unilateral-serifed"
+    capital-d = "standard-bilateral-serifed"
+    capital-e = "serifed"
+    capital-f = "serifed"
+    capital-g = "toothed-serifed-hookless"
+    capital-i = "short-serifed"
+    capital-m = "hanging"
+    a = "double-storey-tailed"
+    b = "toothless-corner"
+    d = "toothless-corner-serifed"
+    f = "flat-hook-serifed"
+    g = "single-storey-serifed"
+    i = "tailed-serifed"
+    k = "cursive-top-left-and-bottom-right-serifed"
+    l = "tailed-serifed"
+    m = "earless-rounded-double-arch"
+    n = "earless-corner-straight"
+    p = "earless-corner"
+    q = "earless-corner"
+    r = "earless-corner-serifed"
+    u = "toothless-corner"
+    v = "cursive-serifed"
+    y = "cursive-motion-serifed"
+    z = "curly-serifed"
+    long-s = "flat-hook-tailed"
+    eszet = "sulzbacher-descending"
+    zero = "reverse-slashed-oval"
+    one = "base-long-top-serif"
+    two = "curly-neck"
+    three = "flat-top"
+    four = "open"
+    five = "oblique-upper-left-bar"
+    seven = "curly-serifed"
+    eight = "two-circles"
+    asterisk = "hex-low"
+    pilcrow = "low"
+    paren = "flat-arc"
+    ampersand = "closed"
+    dollar = "open"
+    cent = "through"
+    percent = "rings-continuous-slash"
+    bar = "force-upright"
+    lig-ltgteq = "slanted"
+    punctuation-dot = "round"
+
+[buildPlans.isokeva-slab-term.weights.light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.isokeva-slab-term.weights.regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.isokeva-slab-term.weights.bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.isokeva-slab-term.slopes.upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.isokeva-slab-term.slopes.italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.isokeva-slab-fixed]
+family = "Isokeva Slab Fixed"
+spacing = "fixed"
+serifs = "slab"
+no-cv-ss = true
+no-ligation = true
+export-glyph-names = true
+
+  [buildPlans.isokeva-slab-fixed.variants]
+  inherits = "ss20"
+
+    [buildPlans.isokeva-slab-fixed.variants.design]
+    capital-a = "curly-base-serifed"
+    capital-b = "standard-bilateral-serifed"
+    capital-c = "unilateral-serifed"
+    capital-d = "standard-bilateral-serifed"
+    capital-e = "serifed"
+    capital-f = "serifed"
+    capital-g = "toothed-serifed-hookless"
+    capital-i = "short-serifed"
+    capital-m = "hanging"
+    a = "double-storey-tailed"
+    b = "toothless-corner"
+    d = "toothless-corner-serifed"
+    f = "flat-hook-serifed"
+    g = "single-storey-serifed"
+    i = "tailed-serifed"
+    k = "cursive-top-left-and-bottom-right-serifed"
+    l = "tailed-serifed"
+    m = "earless-rounded-double-arch"
+    n = "earless-corner-straight"
+    p = "earless-corner"
+    q = "earless-corner"
+    r = "earless-corner-serifed"
+    u = "toothless-corner"
+    v = "cursive-serifed"
+    y = "cursive-motion-serifed"
+    z = "curly-serifed"
+    long-s = "flat-hook-tailed"
+    eszet = "sulzbacher-descending"
+    zero = "reverse-slashed-oval"
+    one = "base-long-top-serif"
+    two = "curly-neck"
+    three = "flat-top"
+    four = "open"
+    five = "oblique-upper-left-bar"
+    seven = "curly-serifed"
+    eight = "two-circles"
+    asterisk = "hex-low"
+    pilcrow = "low"
+    paren = "flat-arc"
+    ampersand = "closed"
+    dollar = "open"
+    cent = "through"
+    percent = "rings-continuous-slash"
+    bar = "force-upright"
+    lig-ltgteq = "slanted"
+    punctuation-dot = "round"
+  
+[buildPlans.isokeva-slab-fixed.weights.light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.isokeva-slab-fixed.weights.regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.isokeva-slab-fixed.weights.bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.isokeva-slab-fixed.slopes.upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.isokeva-slab-fixed.slopes.italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
+
+[buildPlans.isokeva-text]
+family = "Isokeva Text"
+spacing = "quasi-proportional"
+serifs = "sans"
+no-cv-ss = true
+no-ligation = true
+export-glyph-names = true
+
+  [buildPlans.isokeva-text.variants]
+  inherits = "ss20"
+
+    [buildPlans.isokeva-text.variants.design]
+    capital-a = "curly-serifless"
+    capital-b = "standard-unilateral-serifed"
+    capital-d = "standard-unilateral-serifed"
+    capital-g = "toothed-serifless-hookless"
+    capital-i = "short-serifed"
+    capital-m = "hanging"
+    a = "double-storey-toothless-corner"
+    b = "toothless-corner"
+    d = "toothless-corner-serifless"
+    e = "flat-crossbar"
+    f = "flat-hook-tailed"
+    g = "earless-corner"
+    i = "tailed"
+    j = "serifless"
+    k = "cursive-serifless"
+    l = "tailed"
+    m = "earless-rounded-double-arch"
+    n = "earless-corner-straight"
+    p = "earless-corner"
+    q = "earless-corner"
+    r = "earless-corner"
+    u = "toothless-corner"
+    v = "cursive"
+    y = "cursive"
+    z = "curly-serifless"
+    long-s = "flat-hook-tailed"
+    eszet = "sulzbacher-descending"
+    zero = "slashed-oval"
+    one = "no-base-long-top-serif"
+    two = "curly-neck"
+    three = "flat-top"
+    four = "open"
+    five = "oblique-upper-left-bar"
+    seven = "curly-serifless"
+    eight = "two-circles"
+    asterisk = "hex-low"
+    pilcrow = "low"
+    paren = "flat-arc"
+    number-sign = "upright-open"
+    ampersand = "upper-open"
+    dollar = "open"
+    cent = "open"
+    percent = "rings-continuous-slash"
+    bar = "force-upright"
+    lig-ltgteq = "slanted"
+    punctuation-dot = "round"
+
+[buildPlans.isokeva-text.weights.light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.isokeva-text.weights.regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.isokeva-text.weights.bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.isokeva-text.slopes.upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.isokeva-text.slopes.italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
